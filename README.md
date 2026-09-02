@@ -51,7 +51,7 @@ Agisoft Metashape · CloudCompare · LAStools
 
 ## 🗄️ Spatial Databases & Geospatial Data
 
-PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
+PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage · DWG/DXF
 
 ---
 
@@ -70,12 +70,6 @@ WMS · WFS · WMTS · ArcGIS REST Services · OGC Standards
 ## 🛠️ Development Environments & Tooling
 
 Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · PowerShell · Git · Git Bash
-
----
-
-## 📐 CAD & Technical Drawing
-
-AutoCAD/DWG workflows · nanoCAD
 
 ---
 
