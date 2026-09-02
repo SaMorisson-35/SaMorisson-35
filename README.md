@@ -33,7 +33,7 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 
 ## 🌐 Web Development & APIs
 
-FastAPI · HTML · CSS · Leaflet
+FastAPI · HTML · CSS · JavaScript
 
 ---
 
@@ -45,7 +45,7 @@ ArcGIS · QGIS · ArcPy · GDAL/OGR · PDAL
 
 ## 🛰️ Remote Sensing, Photogrammetry & 3D
 
-Agisoft Metashape · CloudCompare · LAStools · PDAL · GDAL
+Agisoft Metashape · CloudCompare · LAStools
 
 ---
 
@@ -57,7 +57,13 @@ PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
 
 ## 🌍 Web GIS & Geospatial Infrastructure
 
-GeoServer · Leaflet · FastAPI · Docker
+ArcGIS Enterprise · ArcGIS Online · GeoServer · Leaflet · Docker
+
+---
+
+## 🔗 Geospatial Services & Interoperability
+
+WMS · WFS · WMTS · ArcGIS REST Services · OGC Standards
 
 ---
 
