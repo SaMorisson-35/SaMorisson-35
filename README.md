@@ -1,5 +1,3 @@
-# Samuel Morisson de Oliveira
-
 🗺️ **Territorial Planning & Management**  
 🌐 **Geospatial Analysis & GIS Development**
 
@@ -12,7 +10,6 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 ## 🧭 Areas of expertise
 
 - Territorial Planning & Management
-- Geographic Information Systems
 - Geospatial Analysis
 - GIS Development
 - Cartography & Spatial Data
@@ -22,8 +19,8 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 - Geodesy & Coordinate Reference Systems
 - Spatial Data Quality & Validation
 - Terrain & Elevation Analysis
-- Web GIS & Geospatial Applications
 - Spatial Databases
+- Web GIS & Geospatial Applications
 - Geospatial Automation
 
 ---
@@ -34,7 +31,7 @@ Python · R · FastAPI
 
 ---
 
-## 🗺️ GIS & Geospatial Analysis
+## 🗺️ GIS & Geospatial Technologies
 
 ArcGIS · QGIS · ArcPy · GDAL/OGR · PDAL
 
@@ -54,7 +51,7 @@ PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
 
 ## 🌐 Web GIS & Geospatial Infrastructure
 
-GeoServer · Leaflet · FastAPI · Docker
+GeoServer · Leaflet · FastAPI · Docker · Tailscale
 
 ---
 
