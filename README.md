@@ -14,7 +14,7 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 - GIS Development
 - Cartography & Spatial Data
 - Remote Sensing
-- Photogrammetry
+- UAV Photogrammetry
 - LiDAR & Point Cloud Processing
 - Geodesy & Coordinate Reference Systems
 - Spatial Data Quality & Validation
@@ -33,19 +33,25 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 
 ## 🌐 Web Development & APIs
 
-FastAPI · HTML · CSS · JavaScript
+FastAPI · HTML · CSS
 
 ---
 
 ## 🗺️ GIS & Geospatial Technologies
 
-ArcGIS · QGIS · ArcPy · GDAL/OGR · PDAL
+ArcGIS · QGIS · ArcPy · GDAL/OGR
 
 ---
 
-## 🛰️ Remote Sensing, Photogrammetry & 3D
+## 🛰️ Remote Sensing, UAV Photogrammetry & 3D
 
-Agisoft Metashape · CloudCompare · LAStools
+Agisoft Metashape · DJI Terra · WebODM/OpenDroneMap · GCP Editor Pro · CloudCompare
+
+---
+
+## ☁️ LiDAR, Point Clouds & Terrain Processing
+
+PDAL · LAStools · FlashPointClassifier
 
 ---
 
@@ -69,7 +75,7 @@ WMS · WFS · WMTS · ArcGIS REST Services · OGC Standards
 
 ## 🛠️ Development Environments & Tooling
 
-Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · PowerShell · Git · Git Bash
+Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · Git · Git Bash
 
 ---
 
@@ -81,7 +87,7 @@ Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · 
 - Web GIS architectures and application development
 - Terrain and elevation modelling
 - LiDAR and point cloud processing
-- Remote sensing and photogrammetry
+- Remote sensing and UAV photogrammetry
 - Coastal and territorial analysis
 - Temporal geospatial analysis
 - Geospatial decision-support systems
