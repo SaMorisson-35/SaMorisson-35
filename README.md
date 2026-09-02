@@ -51,7 +51,7 @@ PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
 
 ## 🌐 Web GIS & Geospatial Infrastructure
 
-GeoServer · Leaflet · FastAPI · Docker · Tailscale
+GeoServer · Leaflet · FastAPI · Docker
 
 ---
 
