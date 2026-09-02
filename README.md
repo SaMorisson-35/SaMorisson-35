@@ -3,7 +3,7 @@
 
 Geospatial professional focused on territorial planning, spatial analysis, GIS development and the application of geospatial technologies to real-world decision-making.
 
-My work combines Geographic Information Systems, spatial data, geodesy, remote sensing, photogrammetry, LiDAR, spatial databases and Web GIS development, with a strong focus on technical accuracy, data quality and reproducible geospatial workflows.
+My work combines Geographic Information Systems, spatial data, geodesy, remote sensing, photogrammetry, LiDAR, spatial databases and Web GIS development, with a strong focus on technical accuracy, data quality, automation and reproducible geospatial workflows.
 
 ---
 
@@ -25,9 +25,15 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 
 ---
 
-## 💻 Programming & Scientific Computing
+## 💻 Programming & Scripting Languages
 
-Python · R · FastAPI
+**Python** · PowerShell · SQL · JavaScript · R
+
+---
+
+## 🌐 Web Development & APIs
+
+FastAPI · HTML · CSS · Leaflet
 
 ---
 
@@ -49,7 +55,7 @@ PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
 
 ---
 
-## 🌐 Web GIS & Geospatial Infrastructure
+## 🌍 Web GIS & Geospatial Infrastructure
 
 GeoServer · Leaflet · FastAPI · Docker
 
@@ -57,7 +63,7 @@ GeoServer · Leaflet · FastAPI · Docker
 
 ## 🛠️ Development Environments & Tooling
 
-VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · PowerShell · Git · Git Bash
+Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · PowerShell · Git · Git Bash
 
 ---
 
@@ -71,12 +77,13 @@ AutoCAD/DWG workflows · nanoCAD
 
 - Geospatial automation and reproducible workflows
 - Spatial data quality and validation
-- Web GIS architectures
 - Spatial databases and geospatial APIs
+- Web GIS architectures and application development
 - Terrain and elevation modelling
 - LiDAR and point cloud processing
 - Remote sensing and photogrammetry
 - Coastal and territorial analysis
+- Temporal geospatial analysis
 - Geospatial decision-support systems
 - Geospatial AI & Machine Learning
 
@@ -84,13 +91,36 @@ AutoCAD/DWG workflows · nanoCAD
 
 ## 🚀 Selected projects
 
-Public technical repositories and geospatial projects will be progressively added here.
+### 🌱 LIFE IP CLIMAZ
+
+Technical work involving Geographic Information Systems, spatial analysis and geospatial methodologies applied to environmental and territorial challenges in the Azores.
+
+### 🧩 Geospatial Development
+
+Development and automation of GIS workflows using Python, ArcPy, QGIS, GDAL/OGR, spatial databases and Web GIS technologies.
+
+> Public technical repositories, reproducible workflows and geospatial projects will be progressively added here.
 
 ---
 
-## 🌍 Location
+## 🎯 Professional approach
 
-Azores, Portugal
+I am particularly interested in connecting geospatial science with practical decision-making through:
+
+- technically rigorous spatial analysis;
+- reliable and well-structured geospatial data;
+- automation of repetitive GIS workflows;
+- interoperable spatial databases;
+- reproducible analytical processes;
+- Web GIS and geospatial application development;
+- integration of surveying, remote sensing and spatial information;
+- geospatial tools that transform data into actionable information.
+
+---
+
+## 📍 Location
+
+**Azores, Portugal**
 
 ---
 
