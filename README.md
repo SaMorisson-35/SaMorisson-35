@@ -57,7 +57,7 @@ PDAL · LAStools · FlashPointClassifier
 
 ## 🗄️ Spatial Databases & Geospatial Data
 
-PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage · DWG/DXF
+PostgreSQL · PostGIS · Esri File Geodatabase · GeoPackage
 
 ---
 
@@ -75,7 +75,7 @@ WMS · WFS · WMTS · ArcGIS REST Services · OGC Standards
 
 ## 🛠️ Development Environments & Tooling
 
-Jupyter Notebook · VS Code · Spyder · Miniconda/Anaconda · OSGeo4W Shell · Git · Git Bash
+Jupyter Notebook · VS Code · Spyder · Anaconda · OSGeo4W Shell · Git · Git Bash
 
 ---
 
