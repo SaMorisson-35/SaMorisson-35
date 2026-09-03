@@ -69,7 +69,7 @@ ArcGIS Enterprise · ArcGIS Online · GeoServer · Leaflet · Docker
 
 ## 🔗 Geospatial Services & Interoperability
 
-ArcGIS REST Services · OGC Web Services (OWS Standards)
+ArcGIS REST Services · OGC Web-Services (OWS)
 
 ---
 
