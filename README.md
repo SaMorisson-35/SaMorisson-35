@@ -1,4 +1,4 @@
-🗺️ **Territorial Planning & Management**  
+🗺️ **Spatial Planning & Management**  
 🌐 **Geospatial Analysis & GIS Development**
 
 Geospatial professional focused on territorial planning, spatial analysis, GIS development and the application of geospatial technologies to real-world decision-making.
@@ -9,7 +9,7 @@ My work combines Geographic Information Systems, spatial data, geodesy, remote s
 
 ## 🧭 Areas of expertise
 
-- Territorial Planning & Management
+- Spatial Planning & Management
 - Geospatial Analysis
 - GIS Development
 - Cartography & Spatial Data
